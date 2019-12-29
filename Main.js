@@ -4,7 +4,7 @@ import {BoksHakkında} from './BoksHakkında.js';
 import Sparring from './Sparring.js';
 import Analiz from './Analiz.js';
 import Kariyer from './Kariyer.js';
-import Antrenman from './Antrenman';
+import Antrenman from './Antrenman.js';
 
 class Main extends Component {
   render() {
