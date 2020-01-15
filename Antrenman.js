@@ -53,7 +53,7 @@ export const Antrenman = () => (
 
                 <h2>Header Level 2</h2>
 
-                <img src={mike} />
+            
 
                 <ol>
                     <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
