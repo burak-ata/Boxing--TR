@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import { Route, NavLink, HashRouter } from 'react-router-dom';
-import {BoksHakkında} from './BoksHakkında.js';
+import BoksHakkında from './BoksHakkında.js';
 import Sparring from './Sparring.js';
 import Analiz from './Analiz.js';
 import Kariyer from './Kariyer.js';
 import Antrenman from './Antrenman.js';
 
-class Main extends Component {
+class Main extends React.Component {
   render() {
     return (
       <HashRouter>
