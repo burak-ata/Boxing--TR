@@ -1,8 +1,6 @@
 import React from 'react';
-import { isJSXOpeningFragment } from '@babel/types';
 
-
-export const Analiz = () => (
+export const Analiz = () => {
 
     <div>
         <ul className="flex-container">
@@ -58,5 +56,5 @@ export const Analiz = () => (
 
         </ul>
     </div>
-)
+}
 export default Analiz;
